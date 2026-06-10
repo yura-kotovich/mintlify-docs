@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
+  "theme": "mint",
   "name": "ШІ для людей і бізнесу",
   "colors": {
     "primary": "#171717",
