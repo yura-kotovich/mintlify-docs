@@ -98,10 +98,6 @@
   "navbar": {
     "links": [
       {
-        "href": "/",
-        "label": "Головна"
-      },
-      {
         "href": "mailto:ai@kotovich.uk",
         "label": "Зв'язатися"
       }
