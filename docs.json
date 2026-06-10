@@ -1,0 +1,127 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "maple",
+  "name": "ШІ для людей і бізнесу",
+  "colors": {
+    "primary": "#171717",
+    "light": "#F5F5F5",
+    "dark": "#FF4D00"
+  },
+  "description": "Практичні інструкції, готові промпти та рішення для автоматизації рутини від Юри Котовича.",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "ШІ та промпти",
+        "groups": [
+          {
+            "group": "Початок роботи",
+            "expanded": false,
+            "pages": [
+              "index",
+              "quick-start",
+              "how-it-works"
+            ]
+          },
+          {
+            "group": "Основи ШІ",
+            "expanded": false,
+            "pages": [
+              "basics/what-is-ai",
+              "basics/chatgpt-intro",
+              "basics/choosing-tools"
+            ]
+          },
+          {
+            "group": "Промпти",
+            "expanded": false,
+            "pages": [
+              "prompts/prompt-engineering",
+              "prompts/ready-prompts",
+              "prompts/prompt-templates"
+            ]
+          },
+          {
+            "group": "Ресурси",
+            "expanded": false,
+            "pages": [
+              "resources/faq",
+              "resources/tools-list"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Бізнес і сайти",
+        "groups": [
+          {
+            "group": "Автоматизація",
+            "expanded": false,
+            "pages": [
+              "automation/workflows",
+              "automation/no-code-tools",
+              "automation/use-cases"
+            ]
+          },
+          {
+            "group": "Для бізнесу",
+            "expanded": false,
+            "pages": [
+              "business/ai-for-marketing",
+              "business/ai-for-sales",
+              "business/ai-for-operations",
+              "business/ai-strategy"
+            ]
+          },
+          {
+            "group": "Сайти і Клієнти",
+            "pages": [
+              {
+                "group": "Клієнти з Google Maps",
+                "pages": [
+                  "sites-25min/clients.mdx",
+                  "sites-25min/untitled-page"
+                ]
+              },
+              "sites-25min/paid-tools.mdx",
+              "sites-25min/free.mdx",
+              "sites-25min/prompts.mdx"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "href": "mailto:ai@kotovich.uk",
+        "label": "Зв'язатися"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Почати",
+      "href": "https://kotovich.uk/"
+    }
+  },
+  "contextual": {
+    "options": ["copy", "view", "chatgpt", "claude", "perplexity", "cursor"]
+  },
+  "footer": {
+    "socials": {
+      "website": "https://kotovich.uk/",
+      "telegram": "https://t.me/ai24q"
+    }
+  },
+  "seo": {
+    "indexing": "all"
+  },
+  "logo": {
+    "light": "/images/image__7_-removebg-preview.png",
+    "dark": "/images/image(8).png"
+  },
+  "favicon": {
+    "light": "/images/image__7_-removebg-preview.png",
+    "dark": "/images/image(8).png"
+  }
+}

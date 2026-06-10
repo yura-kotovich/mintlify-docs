@@ -1,0 +1,74 @@
+{
+  "projectType": "saas",
+  "projectName": "ШІ для людей і бізнесу",
+  "projectDescription": "База знань Юри Котовича з практичними інструкціями, готовими промптами та рішеннями для автоматизації рутини за допомогою штучного інтелекту.",
+  "theme": "maple",
+  "primaryColor": "#171717",
+  "lightColor": "#F5F5F5",
+  "darkColor": "#FF4D00",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Початок роботи",
+        "pages": [
+          "index",
+          "quick-start",
+          "how-it-works"
+        ]
+      },
+      {
+        "group": "Основи ШІ",
+        "pages": [
+          "basics/what-is-ai",
+          "basics/chatgpt-intro",
+          "basics/choosing-tools"
+        ]
+      },
+      {
+        "group": "Промпти",
+        "pages": [
+          "prompts/prompt-engineering",
+          "prompts/ready-prompts",
+          "prompts/prompt-templates"
+        ]
+      },
+      {
+        "group": "Автоматизація",
+        "pages": [
+          "automation/workflows",
+          "automation/no-code-tools",
+          "automation/use-cases"
+        ]
+      },
+      {
+        "group": "Для бізнесу",
+        "pages": [
+          "business/ai-for-marketing",
+          "business/ai-for-sales",
+          "business/ai-for-operations",
+          "business/ai-strategy"
+        ]
+      },
+      {
+        "group": "Ресурси",
+        "pages": [
+          "resources/faq",
+          "resources/tools-list"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Готові промпти для ChatGPT та інших ШІ-інструментів",
+    "Покрокові інструкції з автоматизації бізнес-процесів",
+    "Практичні гайди для маркетингу, продажів та операцій",
+    "Поради щодо вибору та використання ШІ-інструментів",
+    "Стратегія впровадження ШІ для малого та середнього бізнесу",
+    "Шаблони промптів під різні завдання"
+  ],
+  "publicApiSurface": [
+    "Контактна форма: ai@kotovich.uk",
+    "Веб-сайт: https://kotovich.uk/",
+    "Telegram-канал: https://t.me/ai24q"
+  ]
+}
