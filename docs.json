@@ -11,6 +11,10 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Головна",
+        "href": "/"
+      },
+      {
         "tab": "ШІ та промпти",
         "groups": [
           {
@@ -93,6 +97,10 @@
   },
   "navbar": {
     "links": [
+      {
+        "href": "/",
+        "label": "Головна"
+      },
       {
         "href": "mailto:ai@kotovich.uk",
         "label": "Зв'язатися"
