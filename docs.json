@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "almond",
   "name": "ШІ для людей і бізнесу",
   "colors": {
     "primary": "#171717",
@@ -10,10 +10,6 @@
   "description": "Практичні інструкції, готові промпти та рішення для автоматизації рутини від Юри Котовича.",
   "navigation": {
     "tabs": [
-      {
-        "tab": "Головна",
-        "href": "/"
-      },
       {
         "tab": "ШІ та промпти",
         "groups": [
@@ -79,16 +75,10 @@
           {
             "group": "Сайти і Клієнти",
             "pages": [
-              {
-                "group": "Клієнти з Google Maps",
-                "pages": [
-                  "sites-25min/clients.mdx",
-                  "sites-25min/untitled-page"
-                ]
-              },
-              "sites-25min/paid-tools.mdx",
-              "sites-25min/free.mdx",
-              "sites-25min/prompts.mdx"
+              "sites-25min/clients",
+              "sites-25min/paid-tools",
+              "sites-25min/free",
+              "sites-25min/prompts"
             ]
           }
         ]
