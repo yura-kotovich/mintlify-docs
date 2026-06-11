@@ -33,20 +33,20 @@
           },
           {
             "group": "Промпти",
-            "expanded": false,
             "pages": [
               "prompts/prompt-engineering",
               "prompts/ready-prompts",
               "prompts/prompt-templates"
-            ]
+            ],
+            "hidden": true
           },
           {
             "group": "Ресурси",
-            "expanded": false,
             "pages": [
               "resources/faq",
               "resources/tools-list"
-            ]
+            ],
+            "hidden": true
           }
         ]
       },
@@ -81,7 +81,8 @@
               "sites-25min/prompts"
             ]
           }
-        ]
+        ],
+        "hidden": true
       }
     ]
   },
