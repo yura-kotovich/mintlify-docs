@@ -19,8 +19,7 @@
               "index",
               "quick-start",
               "how-it-works"
-            ],
-            "hidden": true
+            ]
           },
           {
             "group": "Основи ШІ",
@@ -28,8 +27,7 @@
               "basics/what-is-ai",
               "basics/chatgpt-intro",
               "basics/choosing-tools"
-            ],
-            "hidden": true
+            ]
           },
           {
             "group": "Промпти",
@@ -37,16 +35,14 @@
               "prompts/prompt-engineering",
               "prompts/ready-prompts",
               "prompts/prompt-templates"
-            ],
-            "hidden": true
+            ]
           },
           {
             "group": "Ресурси",
             "pages": [
               "resources/faq",
               "resources/tools-list"
-            ],
-            "hidden": true
+            ]
           }
         ]
       },
@@ -81,8 +77,7 @@
               "sites-25min/prompts"
             ]
           }
-        ],
-        "hidden": true
+        ]
       }
     ]
   },
