@@ -15,21 +15,21 @@
         "groups": [
           {
             "group": "Початок роботи",
-            "expanded": false,
             "pages": [
               "index",
               "quick-start",
               "how-it-works"
-            ]
+            ],
+            "hidden": true
           },
           {
             "group": "Основи ШІ",
-            "expanded": false,
             "pages": [
               "basics/what-is-ai",
               "basics/chatgpt-intro",
               "basics/choosing-tools"
-            ]
+            ],
+            "hidden": true
           },
           {
             "group": "Промпти",
